@@ -2,7 +2,19 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Yasmin Bezerra dos Santos, tenho 29 anos e sou do Rio de Janeiro. Concluí a minha primeira faculdade na UFRRJ, com bacharel em Hotelaria. Atualmente, estou cursando Engenharia de Software na Anhanguera. No momento estou em transição de carreira para tecnologia, área pela qual sou apaixonada, aqui é minha forma de aprender, compartilhar conhecimento e criar novas soluções.
+Olá! Sou a Yasmin, estudante de tecnologia e desenvolvedora Full Stack em constante evolução. Tenho experiência com HTML, CSS, JavaScript e Python, criando projetos que unem design funcional, lógica bem estruturada e foco na experiência do usuário.
+
+Gosto de explorar tanto o frontend, onde posso transformar ideias em interfaces intuitivas, quanto o backend, desenvolvendo soluções práticas e bem organizadas. Estou sempre aprendendo novas ferramentas e aprimorando minhas habilidades para construir aplicações completas e criativas.
+
+Acredito que cada linha de código é uma oportunidade de aprendizado e impacto, e é isso que me motiva a seguir crescendo no mundo da tecnologia. 
+
+## About me
+
+Hi! I'm Yasmin, a technology student and Full Stack Developer in constant growth. I have experience with HTML, CSS, JavaScript, and Python, creating projects that combine functional design, clean logic, and user-focused experiences.
+
+I enjoy working on both the frontend, where I bring ideas to life through intuitive interfaces, and the backend, building practical and well-structured solutions. I'm always exploring new tools and improving my skills to develop complete and creative applications.
+
+I believe every line of code is an opportunity to learn and make an impact, and that’s what keeps me motivated to keep growing in the tech world.
 
 <p align="left">
     <a href="https://github.com/YasBezerra?tab=repositories&sort=stargazers">
