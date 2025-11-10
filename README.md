@@ -2,7 +2,7 @@
 
   <!-- 🎬 GIF Banner -->
   <img 
-    src="https://github.com/YasBezerra/YasBezerra/blob/main/ezgif-24865cd9f222a86c.gif?raw=true"
+    src="https://github.com/YasBezerra/YasBezerra/blob/main/Hailuo_Video_A%205-second%20cinematic%20animation_444347097776144385.gif?raw=true"
     alt="Animação criada por IA"
     style="border-radius: 12px; width: 480px; box-shadow: 0 0 10px rgba(255,255,255,0.1);"
   />
