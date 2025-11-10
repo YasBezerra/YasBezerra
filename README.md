@@ -1,20 +1,45 @@
-# Yasmin Bezerra
+<div align="center">
 
-**`Desenvolvedora FullStack`**
+  <!-- 🎬 GIF Banner -->
+  <img 
+    src="https://github.com/YasBezerra/YasBezerra/blob/main/ezgif-24865cd9f222a86c.gif?raw=true"
+    alt="Animação criada por IA"
+    style="border-radius: 12px; width: 480px; box-shadow: 0 0 10px rgba(255,255,255,0.1);"
+  />
 
-Olá! Sou a Yasmin, estudante de tecnologia e desenvolvedora Full Stack em constante evolução. Tenho experiência com HTML, CSS, JavaScript e Python, criando projetos que unem design funcional, lógica bem estruturada e foco na experiência do usuário.
+  <!-- 💬 Compact Bio Box -->
+  <div style="
+    background-color: #1e1e1e;
+    color: #f5f5f5;
+    border-radius: 12px;
+    padding: 14px 18px;
+    margin-top: 10px;
+    max-width: 650px;
+    text-align: left;
+    box-shadow: 0 0 10px rgba(255,255,255,0.08);
+    line-height: 1.35;
+  ">
 
-Gosto de explorar tanto o frontend, onde posso transformar ideias em interfaces intuitivas, quanto o backend, desenvolvendo soluções práticas e bem organizadas. Estou sempre aprendendo novas ferramentas e aprimorando minhas habilidades para construir aplicações completas e criativas.
+  <h3 style="margin-top: 0; margin-bottom: 6px;">Hi! I'm Yasmin 👋</h3>
 
-Acredito que cada linha de código é uma oportunidade de aprendizado e impacto, e é isso que me motiva a seguir crescendo no mundo da tecnologia. 
+  <p style="margin: 3px 0;">
+    I'm a technology student and <b>Full Stack Developer</b> in constant growth.  
+    I have experience with <b>HTML, CSS, JavaScript, and Python</b>, creating projects that combine functional design, clean logic, and user-focused experiences.
+  </p>
 
-## About me
+  <p style="margin: 3px 0;">
+    I enjoy working on both the <b>frontend</b>, where I bring ideas to life through intuitive interfaces, and the <b>backend</b>, building practical and well-structured solutions.  
+    I'm always exploring new tools and improving my skills to develop complete and creative applications.
+  </p>
 
-Hi! I'm Yasmin, a technology student and Full Stack Developer in constant growth. I have experience with HTML, CSS, JavaScript, and Python, creating projects that combine functional design, clean logic, and user-focused experiences.
+  <p style="margin: 3px 0;">
+    I believe every line of code is an opportunity to learn and make an impact — and that’s what keeps me motivated to keep growing in the tech world.
+  </p>
 
-I enjoy working on both the frontend, where I bring ideas to life through intuitive interfaces, and the backend, building practical and well-structured solutions. I'm always exploring new tools and improving my skills to develop complete and creative applications.
+  </div>
 
-I believe every line of code is an opportunity to learn and make an impact, and that’s what keeps me motivated to keep growing in the tech world.
+</div>
+
 
 <p align="left">
     <a href="https://github.com/YasBezerra?tab=repositories&sort=stargazers">
@@ -37,118 +62,19 @@ I believe every line of code is an opportunity to learn and make an impact, and 
 
 ### Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Flask"
-    title="Flask" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
-/>
-<img 
-    align="left" 
-    alt="FastAPI"
-    title="FastAPI" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Sqlite" 
-    title="Sqlite"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
-/>
-<img 
-    align="left" 
-    alt="SQLAlchemy" 
-    title="SQLAlchemy"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Sass" title="Sass" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="FastAPI" title="FastAPI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Sqlite" title="Sqlite" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="SQLAlchemy" title="SQLAlchemy" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <br/>
 <br/>
@@ -164,27 +90,11 @@ I believe every line of code is an opportunity to learn and make an impact, and 
     src="https://github-readme-stats.vercel.app/api?username=YasBezerra&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Top Languages" 
       height="200"
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasBezerra&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
-
-<!--
-**YasBezerra/YasBezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
