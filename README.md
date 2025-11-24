@@ -24,7 +24,7 @@
 
   <p style="margin: 3px 0;">
     I'm a technology student and <b>Full Stack Developer</b> in constant growth.  
-    I have experience with <b>HTML, CSS, JavaScript, and Python</b>, creating projects that combine functional design, clean logic, and user-focused experiences.
+    I have experience with <b>HTML, SASS, React, JavaScript, and Python</b>, creating projects that combine functional design, clean logic, and user-focused experiences.
   </p>
 
   <p style="margin: 3px 0;">
